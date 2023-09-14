@@ -1,6 +1,5 @@
 # Dart Language Interpreter in Python
 
-![Dart Logo](dart-logo.png) <!-- You can replace this with an actual Dart logo if you have one -->
 
 This is a simple Dart language interpreter implemented in Python. It allows you to execute Dart code directly from the command line using your Python environment.
 
@@ -22,4 +21,4 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/dart-interpreter.git
+ https://github.com/arpitguptagithub/interpretor_dart.git
